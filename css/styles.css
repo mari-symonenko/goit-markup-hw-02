@@ -57,12 +57,10 @@ a {
   color: #404bbf;
 }
 
-/* Секція 1 */
 .section-one {
   background-color: #2e2f42;
 }
 
-/* Заголовок у секції */
 .hdr {
   font-weight: 700;
   font-size: 56px;
@@ -71,7 +69,6 @@ a {
   text-align: center;
   color: #fff;
 }
-/* Кнопка у секції */
 
 .btn {
   background-color: #4d5ae5;
@@ -87,8 +84,6 @@ a {
 .btn:focus {
   background-color: #404bbf;
 }
-
-/* Секція 2*/
 
 .class-list {
   font-weight: 500;
@@ -106,13 +101,12 @@ a {
   color: #434455;
 }
 
-/* Секція 3*/
-
 .background {
   background-color: #f4f4fd;
+  line-height: 1.11;
 }
 
-.title-1 {
+.title-one {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;
@@ -126,8 +120,6 @@ a {
   list-style: none;
   padding: 0;
 }
-
-/*потребує перевірки*/
 
 .team-content {
   background-color: #ffffff;
@@ -152,8 +144,6 @@ a {
   text-align: center;
   color: #434455;
 }
-
-/*футер*/
 
 .page-footer {
   background-color: #2e2f42;
