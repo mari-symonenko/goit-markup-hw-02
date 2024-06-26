@@ -118,13 +118,10 @@ a {
 
 ..team-list {
   list-style: none;
-  padding: 0;
 }
 
 .team-content {
   background-color: #ffffff;
-  padding: 20px;
-  margin-bottom: 20px;
 }
 
 .member-name {
